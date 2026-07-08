@@ -60,6 +60,6 @@ Aprender a criar sites sozinho do zero para evoluir e construir uma carreira na 
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:2B0000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1121F,50:780000,100:2B0000&height=120&section=footer"/>
 
 </p>

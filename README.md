@@ -47,16 +47,14 @@ Aprender a criar sites sozinho do zero para evoluir e construir uma carreira na 
 ## 🌎 Redes
 
 <p align="center">
-
-<a href="https://github.com/Kauahpjl">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-<a href="https://www.instagram.com/henriqzpjl">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
+  <a href="https://github.com/Kauahpjl">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  
+  <a href="https://www.instagram.com/henriqzpjl">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
 </p>
-
 
 <p align="center">
 

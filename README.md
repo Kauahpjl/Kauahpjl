@@ -37,11 +37,10 @@ Aprender a criar sites sozinho do zero para evoluir e construir uma carreira na 
 ## 🔥 Sequência de Contribuições
 
 <p align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kauahpjl&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Kauahpjl&theme=radical&hide_border=true&locale=pt_BR&count_private=true" alt="GitHub Streak" />
+  </a>
 </p>
-
 ---
 
 ## 🌎 Redes

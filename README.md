@@ -7,7 +7,7 @@
 ## Sobre mim
 
 🎯 Meu Objetivo:
-Aprender a criar sites sozinho do zero para evoluir e construir uma carreira na area
+Aprender a criar sites sozinho do zero para evoluir e construir uma carreira na area, busco me tornar um desenvolvedor FullStack.
 
 ---
 

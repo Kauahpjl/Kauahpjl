@@ -1,6 +1,12 @@
 # Kauã Henrique
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF355E&width=435&lines=Estudante+de+Desenvolvimento+Web" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF355E&width=435&lines=Estudante+de+Desenvolvimento+Web" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <img src="assets/gefe.gif" width="180">
+  <img src="assets/gefe2.gif" width="180">
+  <img src="assets/gefe3.gif" width="180">
+</p>
 
 ---
 

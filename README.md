@@ -29,11 +29,6 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kauahpjl&theme=radical&hide_border=true&locale=pt&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-  <img src="assets/stas.svg" alt="Kauã Henrique" width="600"/>
-</p>
-
-
 <h1 align="center">Redes</h1>
 
 <p align="center">

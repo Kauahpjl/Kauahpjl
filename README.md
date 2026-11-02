@@ -36,6 +36,15 @@
     <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,linux" />
   </a>
 </p>
+<!-- Ferramentas -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Ferramentas" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  </a>
+</p>
 
 <!-- Estatísticas -->
 <p align="center">
